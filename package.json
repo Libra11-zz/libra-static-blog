@@ -8,7 +8,7 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress-theme-libra": "^1.0.2"
+    "vuepress-theme-libra": "^1.0.6"
   },
   "description": "project created by vuepress-theme-libra-cli"
 }

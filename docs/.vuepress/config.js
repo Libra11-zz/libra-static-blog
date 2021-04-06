@@ -1,7 +1,7 @@
 module.exports = {
   title: "Libra",
   theme: "libra",
-  base: "/",
+  base: "/libra-static-blog",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
